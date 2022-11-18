@@ -1,0 +1,27 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    box-shadow: 5px,5px,5px, gray;
+    color: darkorange;
+    font-family: fantasy;
+}
+.NOTE{
+    font-size: 15px;
+    color: red;
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    line-height: 2;
+    font-size: 15px;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px,5px,5px gray;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
